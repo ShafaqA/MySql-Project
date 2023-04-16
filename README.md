@@ -1,4 +1,4 @@
-![EER DIAGRAM](https://user-images.githubusercontent.com/130657140/232259864-beaf8273-207b-41b1-a50a-1c8ae7d628a3.PNG)
+
 The data used in MySQL included a variety of datasets, ranging from customer information to sales and inventory data. Different queries were used to extract relevant information from the datasets, enabling analysis of the data and generation of insights to inform decision-making.
 
 Some of the queries used included:
@@ -8,4 +8,6 @@ SELECT: Used to extract specific columns of data from tables JOIN: Used to combi
 Overall, the use of different queries in MySQL enabled the extraction of relevant data from large and complex datasets, facilitating data analysis and generation of insights to inform business decision-making.
 
 USE sql_store; Select * From customers
+#EER for Sql 
+![EER DIAGRAM](https://user-images.githubusercontent.com/130657140/232259864-beaf8273-207b-41b1-a50a-1c8ae7d628a3.PNG)
 
